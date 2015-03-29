@@ -1,0 +1,11 @@
+{
+  "name": "GitterBot",
+  "version": "0.0.1",
+  "author": "Dmitry Golysh",
+  "email": "disist357@gmail.com",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "node-gitter": "^1.2.8"
+  }
+}
